@@ -4,8 +4,8 @@
 var createHelloWorld = function() {
     
     return function(...args) {
-        let greting="Hello World";
-        return greting;
+       
+        return "Hello World";
     }
 };
 
