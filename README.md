@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dinesh-vaish/Practic/tree/master/1250-check-if-it-is-a-good-array) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 <!---LeetCode Topics End-->
