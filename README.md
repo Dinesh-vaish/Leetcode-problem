@@ -135,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Dinesh-vaish/Practic/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
