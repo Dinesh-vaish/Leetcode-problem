@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/Dinesh-vaish/Practic/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Dinesh-vaish/Practic/tree/master/0263-ugly-number) |
+| [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dinesh-vaish/Practic/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dinesh-vaish/Practic/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Geometry
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dinesh-vaish/Practic/tree/master/1250-check-if-it-is-a-good-array) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dinesh-vaish/Practic/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
+| [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/Dinesh-vaish/Practic/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -145,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/Dinesh-vaish/Practic/tree/master/0197-rising-temperature) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dinesh-vaish/Practic/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dinesh-vaish/Practic/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
