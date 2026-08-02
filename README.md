@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
@@ -177,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
