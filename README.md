@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dinesh-vaish/Practic/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Dinesh-vaish/Practic/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Dinesh-vaish/Practic/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dinesh-vaish/Practic/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/Dinesh-vaish/Practic/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dinesh-vaish/Practic/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3731-find-missing-elements](https://github.com/Dinesh-vaish/Practic/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
