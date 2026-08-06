@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Dinesh-vaish/Practic/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dinesh-vaish/Practic/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh-vaish/Practic/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Dinesh-vaish/Practic/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dinesh-vaish/Practic/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh-vaish/Practic/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
