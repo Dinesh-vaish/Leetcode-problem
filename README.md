@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
