@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Dinesh-vaish/Practic/tree/master/0595-big-countries) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dinesh-vaish/Practic/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dinesh-vaish/Practic/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [3451-find-invalid-ip-addresses](https://github.com/Dinesh-vaish/Practic/tree/master/3451-find-invalid-ip-addresses) |
 ## Game Theory
 |  |
 | ------- |
