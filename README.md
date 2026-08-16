@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dinesh-vaish/Practic/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dinesh-vaish/Practic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Dinesh-vaish/Practic/tree/master/0077-combinations) |
@@ -279,4 +283,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
