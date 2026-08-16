@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dinesh-vaish/Practic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Counting
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Dinesh-vaish/Practic/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
