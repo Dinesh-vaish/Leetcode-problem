@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dinesh-vaish/Practic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -272,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
