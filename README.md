@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dinesh-vaish/Practic/tree/master/0009-palindrome-number) |
 | [0223-rectangle-area](https://github.com/Dinesh-vaish/Practic/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Dinesh-vaish/Practic/tree/master/0263-ugly-number) |
 | [0470-implement-rand10-using-rand7](https://github.com/Dinesh-vaish/Practic/tree/master/0470-implement-rand10-using-rand7) |
