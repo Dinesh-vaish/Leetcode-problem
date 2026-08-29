@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
+| [0485-max-consecutive-ones](https://github.com/Dinesh-vaish/Practic/tree/master/0485-max-consecutive-ones) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
