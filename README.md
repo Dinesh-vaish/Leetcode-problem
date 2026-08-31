@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
+| [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dinesh-vaish/Practic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dinesh-vaish/Practic/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
+| [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-vaish/Practic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
