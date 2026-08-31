@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-vaish/Practic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dinesh-vaish/Practic/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dinesh-vaish/Practic/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh-vaish/Practic/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dinesh-vaish/Practic/tree/master/3348-smallest-divisible-digit-product-ii) |
