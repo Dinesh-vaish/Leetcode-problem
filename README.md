@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
 | [1550-three-consecutive-odds](https://github.com/Dinesh-vaish/Practic/tree/master/1550-three-consecutive-odds) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1572-matrix-diagonal-sum](https://github.com/Dinesh-vaish/Practic/tree/master/1572-matrix-diagonal-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dinesh-vaish/Practic/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-vaish/Practic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dinesh-vaish/Practic/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1572-matrix-diagonal-sum](https://github.com/Dinesh-vaish/Practic/tree/master/1572-matrix-diagonal-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
