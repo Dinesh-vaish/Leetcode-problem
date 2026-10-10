@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dinesh-vaish/Practic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dinesh-vaish/Practic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/Dinesh-vaish/Practic/tree/master/3620-network-recovery-pathways) |
 ## Depth-First Search
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0100-same-tree) |
 | [0547-number-of-provinces](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Dinesh-vaish/Practic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Counting
@@ -381,4 +385,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0100-same-tree) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
