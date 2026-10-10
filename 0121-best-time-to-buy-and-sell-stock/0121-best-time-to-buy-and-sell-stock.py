@@ -1,22 +1,11 @@
-class Solution(object):
+class Solution:
+    def maxProfit(self, prices: list[int]) -> int:
+        min_pr =prices[0]
+        profit = 0
 
-    def maxProfit(self, a):
+        for i in prices:
+            min_pr =min(min_pr,i)
+            profit =max(profit,i-min_pr)
+        return profit
 
-        mini=a[0]
-        maxP=-1
-
-        profit=0
-
-        for i in range(0,len(a)):
-
-            if(a[i]<mini):
-
-                mini=a[i]
-
-            else:
-
-                profit=a[i]-mini
-
-                maxP=max(maxP,profit)
-
-        return maxP
+        
