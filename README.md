@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
+| [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -404,16 +405,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
