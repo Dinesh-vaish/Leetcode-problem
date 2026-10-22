@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1075-project-employees-i) |
+| [1251-average-selling-price](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Dinesh-vaish/Practic/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dinesh-vaish/Practic/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1633-percentage-of-users-attended-a-contest) |
