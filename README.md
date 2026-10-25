@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dinesh-vaish/Practic/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Dinesh-vaish/Practic/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Dinesh-vaish/Practic/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Dinesh-vaish/Practic/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Dinesh-vaish/Practic/tree/master/0262-trips-and-users) |
