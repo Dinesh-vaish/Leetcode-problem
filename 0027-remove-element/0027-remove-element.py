@@ -4,7 +4,7 @@ class Solution:
         k =0
         for i in range(n):
             if nums[i] !=val:
-                nums[k] =nums[i]
+                nums[k],nums[i] =nums[i],nums[k]
                 k+=1
         return k
 
