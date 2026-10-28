@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dinesh-vaish/Practic/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Dinesh-vaish/Practic/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/Dinesh-vaish/Practic/tree/master/0263-ugly-number) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Dinesh-vaish/Practic/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0088-merge-sorted-array) |
