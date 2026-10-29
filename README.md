@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
