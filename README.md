@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh-vaish/Practic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinesh-vaish/Practic/tree/master/0215-kth-largest-element-in-an-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dinesh-vaish/Practic/tree/master/0852-peak-index-in-a-mountain-array) |
