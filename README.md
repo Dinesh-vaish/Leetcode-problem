@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh-vaish/Practic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh-vaish/Practic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
