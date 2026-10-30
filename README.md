@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh-vaish/Practic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0997-find-the-town-judge) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Dinesh-vaish/Practic/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dinesh-vaish/Practic/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Dinesh-vaish/Practic/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dinesh-vaish/Practic/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 ## Ternary Search
 |  |
 | ------- |
@@ -481,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
