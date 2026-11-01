@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Dinesh-vaish/Practic/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0223-rectangle-area](https://github.com/Dinesh-vaish/Practic/tree/master/0223-rectangle-area) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0137-single-number-ii) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
