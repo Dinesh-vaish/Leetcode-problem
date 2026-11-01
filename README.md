@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
+| [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Dinesh-vaish/Practic/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0066-plus-one) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dinesh-vaish/Practic/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Dinesh-vaish/Practic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinesh-vaish/Practic/tree/master/0215-kth-largest-element-in-an-array) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Dinesh-vaish/Practic/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
