@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Dinesh-vaish/Practic/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Dinesh-vaish/Practic/tree/master/0076-minimum-window-substring) |
