@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dinesh-vaish/Practic/tree/master/0485-max-consecutive-ones) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dinesh-vaish/Practic/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
+| [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh-vaish/Practic/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
