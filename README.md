@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Dinesh-vaish/Practic/tree/master/0485-max-consecutive-ones) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
 | [0997-find-the-town-judge](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0997-find-the-town-judge) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinesh-vaish/Practic/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dinesh-vaish/Practic/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Dinesh-vaish/Practic/tree/master/0299-bulls-and-cows) |
 | [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dinesh-vaish/Practic/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dinesh-vaish/Practic/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Dinesh-vaish/Practic/tree/master/3620-network-recovery-pathways) |
@@ -286,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh-vaish/Practic/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -468,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dinesh-vaish/Practic/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 ## Ternary Search
 |  |
 | ------- |
