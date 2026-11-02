@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
+| [0806-number-of-lines-to-write-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Dinesh-vaish/Practic/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
+| [0806-number-of-lines-to-write-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0806-number-of-lines-to-write-string) |
 | [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
