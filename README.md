@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Dinesh-vaish/Practic/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dinesh-vaish/Practic/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0413-arithmetic-slices](https://github.com/Dinesh-vaish/Practic/tree/master/0413-arithmetic-slices) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Dinesh-vaish/Practic/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Dinesh-vaish/Practic/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0809-expressive-words](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0809-expressive-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0977-squares-of-a-sorted-array) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0137-single-number-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 | [0393-utf-8-validation](https://github.com/Dinesh-vaish/Practic/tree/master/0393-utf-8-validation) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Dinesh-vaish/Practic/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Dinesh-vaish/Practic/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -548,4 +552,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0139-word-break) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
