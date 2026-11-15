@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dinesh-vaish/Practic/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dinesh-vaish/Practic/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dinesh-vaish/Practic/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dinesh-vaish/Practic/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Dinesh-vaish/Practic/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1550-three-consecutive-odds](https://github.com/Dinesh-vaish/Practic/tree/master/1550-three-consecutive-odds) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Dinesh-vaish/Practic/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1572-matrix-diagonal-sum](https://github.com/Dinesh-vaish/Practic/tree/master/1572-matrix-diagonal-sum) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/Dinesh-vaish/Practic/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Dinesh-vaish/Practic/tree/master/1406-stone-game-iii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dinesh-vaish/Practic/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Dinesh-vaish/Practic/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -560,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
