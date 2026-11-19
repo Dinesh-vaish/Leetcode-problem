@@ -1,23 +1,25 @@
-(
-    SELECT u.name AS results
-    FROM MovieRating mr
-    JOIN Users u
-        ON mr.user_id = u.user_id
-    GROUP BY u.user_id, u.name
-    ORDER BY COUNT(*) DESC, u.name ASC
-    LIMIT 1
+with cte as( 
+select 
+mr.*,u.name,m.title
+from MovieRating mr
+left join Movies m
+using (Movie_id)
+left join Users u
+using (user_id)
+)
+( 
+select name as results from cte
+group by name,user_id
+order by count(*) desc, name
+limit 1
 )
 
-UNION ALL
+union all
+  (   select title as results
+    from cte 
+    where date_format(created_at,'%Y-%m')='2020-02'
+    group by title,movie_id
+    order by avg(rating) desc,title
+    limit 1
+   ) ;
 
-(
-    SELECT m.title AS results
-    FROM MovieRating mr
-    JOIN Movies m
-        ON mr.movie_id = m.movie_id
-    WHERE YEAR(created_at) = 2020
-      AND MONTH(created_at) = 2
-    GROUP BY m.movie_id, m.title
-    ORDER BY AVG(mr.rating) DESC, m.title ASC
-    LIMIT 1
-);
