@@ -1,6 +1,6 @@
 with cte as( 
 select 
-mr.*,u.name,m.title
+*
 from MovieRating mr
 left join Movies m
 using (Movie_id)
