@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0819-most-common-word) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Dinesh-vaish/Practic/tree/master/0984-string-without-aaa-or-bbb) |
+| [1021-remove-outermost-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dinesh-vaish/Practic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dinesh-vaish/Practic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
