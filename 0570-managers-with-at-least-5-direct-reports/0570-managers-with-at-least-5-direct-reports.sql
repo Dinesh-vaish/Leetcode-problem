@@ -1,13 +1,9 @@
-with manager as (
-    select
-    m.id,
-    m.name as name,
-    count(m.id) as totla_employee
-    from Employee e
-    join Employee m
-    on m.id =e.managerId
-    group by m.name,m.id
-)
+select 
+e.name
+from Employee e
+join Employee m
+on m.managerId =e.id
+group by e.id,e.name
+having count(*)>=5
 
-select name from manager
-where totla_employee>=5;
+
