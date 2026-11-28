@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dinesh-vaish/Practic/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Dinesh-vaish/Practic/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dinesh-vaish/Practic/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Dinesh-vaish/Practic/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0054-spiral-matrix) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Dinesh-vaish/Practic/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Dinesh-vaish/Practic/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0287-find-the-duplicate-number) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0097-interleaving-string) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dinesh-vaish/Practic/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1021-remove-outermost-parentheses](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1021-remove-outermost-parentheses) |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dinesh-vaish/Leetcode-problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
